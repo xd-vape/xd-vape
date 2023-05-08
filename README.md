@@ -6,7 +6,7 @@ I'm a guy from Germany and I'm trying to learn programming and designing. When I
 
 <hr>
 
-> Currently I'm learning programming in web development (HTML, CSS, Javascript) and I'm trying to learn new things like working with a framework!
+> At the moment I'm trying to learn web development (HTML, CSS, Javascript). What I would like to learn next is either VueJS or React JS. Currently I'm also working on Discord bots written with Javascript!
 
 ### PROGRAMMING SKILLS
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) <br>
